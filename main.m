@@ -1,4 +1,7 @@
-%% ---------------------- Robust Optimization RIS ---------------------- %%
+%% --------------------------------------------------------------------- %%
+%            Rate Optimization for RIS-Aided mMTC Networks in             %
+%                      the Finite Blocklength Regime                      %
+%% --------------------------------------------------------------------- %%
 
 clear; close all;
 delete(gcp('nocreate'));

@@ -12,7 +12,7 @@ parpool;
 rng(1);
 
 %% Simulation Options
-opt_sr  = input('Select weight criteria: Equality (1) or Fairness (2): '); % Weighted sum rate option: Equal (1), or fair (2) weights
+opt_sr  = input('Select weight criteria, equality (1) or fairness (2): '); % Weighted sum rate option: Equal (1), or fair (2) weights
 
 %% System Parameters
 % Variable
